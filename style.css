@@ -19,6 +19,7 @@ h2 {
   color: #004a99;
   border-bottom: 1px solid #ccc;
   padding-bottom: 5px;
+  margin-top: 40px;
 }
 
 ul {
@@ -39,9 +40,14 @@ a:hover {
   text-decoration: underline;
 }
 
+section {
+  max-width: 800px;
+  margin: auto;
+}
+
 footer {
   text-align: center;
-  margin-top: 40px;
+  margin-top: 60px;
   font-size: 0.9em;
   color: #666;
 }
